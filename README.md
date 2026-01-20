@@ -31,6 +31,17 @@ Kullanılan Teknolojiler
 
 Ekran Görüntüleri
 
+Anasayfa
+![Anasayfa](screenshots/anasayfa.png)
+
+Arama
+![Arama](screenshots/arama.png)
+
+Detay
+![Detay](screenshots/detay.png)
+
+Yeni Ekle
+![Ekle](screenshots/ekle.png)
 
 
 
