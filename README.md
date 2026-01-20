@@ -1,16 +1,38 @@
-# to_do_app
+Yapılacaklar Uygulaması (To-Do App)
 
-A new Flutter project.
+Flutter ile geliştirilmiş SQLite tabanlı görev yönetim uygulaması.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Özellikler
 
-A few resources to get you started if this is your first Flutter project:
+- Görev ekleme, güncelleme, listeleme
+- SQLite ile kalıcı veri saklama
+- Arama ve filtreleme
+- Temiz ve modern kullanıcı arayüzü
+- CRUD operations (Create, Read, Update, Delete)
+  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Kullanılan Teknolojiler
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter - Cross-platform framework
+- Dart - Programlama dili
+- SQLite - Local database
+- BLOC Pattern - State management
+
+
+Öğrendiklerim
+
+- SQLite database yönetimi
+- CRUD operations
+- Flutter navigation
+- Search ve filtreleme
+- Kullanıcı arayüzü tasarımı
+- 
+
+Ekran Görüntüleri
+
+
+
+
+Proje Tarihi: Ocak 2025  
+Durum: Tamamlandı
